@@ -1,0 +1,10 @@
+C:\Users\chenmeng\source\repos\DemoForXiaoxiang\Common\bin\x64\Debug\Common.dll
+C:\Users\chenmeng\source\repos\DemoForXiaoxiang\Common\bin\x64\Debug\Common.pdb
+C:\Users\chenmeng\source\repos\DemoForXiaoxiang\Common\bin\x64\Debug\Newtonsoft.Json.dll
+C:\Users\chenmeng\source\repos\DemoForXiaoxiang\Common\bin\x64\Debug\Newtonsoft.Json.xml
+C:\Users\chenmeng\source\repos\DemoForXiaoxiang\Common\obj\x64\Debug\MyCommon.csproj.CoreCompileInputs.cache
+C:\Users\chenmeng\source\repos\DemoForXiaoxiang\Common\obj\x64\Debug\MyCommon.csproj.CopyComplete
+C:\Users\chenmeng\source\repos\DemoForXiaoxiang\Common\obj\x64\Debug\Common.dll
+C:\Users\chenmeng\source\repos\DemoForXiaoxiang\Common\obj\x64\Debug\Common.pdb
+C:\Users\chenmeng\source\repos\DemoForXiaoxiang\DLLs\Common.dll
+C:\Users\chenmeng\source\repos\DemoForXiaoxiang\DLLs\Common.pdb
