@@ -1,0 +1,11 @@
+C:\Users\chenmeng\source\repos\DemoForXiaoxiang\Business\bin\x64\Debug\Business.dll
+C:\Users\chenmeng\source\repos\DemoForXiaoxiang\Business\bin\x64\Debug\Business.pdb
+C:\Users\chenmeng\source\repos\DemoForXiaoxiang\Business\bin\x64\Debug\Common.dll
+C:\Users\chenmeng\source\repos\DemoForXiaoxiang\Business\bin\x64\Debug\Newtonsoft.Json.dll
+C:\Users\chenmeng\source\repos\DemoForXiaoxiang\Business\bin\x64\Debug\Common.pdb
+C:\Users\chenmeng\source\repos\DemoForXiaoxiang\Business\bin\x64\Debug\Newtonsoft.Json.xml
+C:\Users\chenmeng\source\repos\DemoForXiaoxiang\Business\obj\x64\Debug\Business.csproj.AssemblyReference.cache
+C:\Users\chenmeng\source\repos\DemoForXiaoxiang\Business\obj\x64\Debug\Business.csproj.CoreCompileInputs.cache
+C:\Users\chenmeng\source\repos\DemoForXiaoxiang\Business\obj\x64\Debug\Business.csproj.CopyComplete
+C:\Users\chenmeng\source\repos\DemoForXiaoxiang\Business\obj\x64\Debug\Business.dll
+C:\Users\chenmeng\source\repos\DemoForXiaoxiang\Business\obj\x64\Debug\Business.pdb
